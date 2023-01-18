@@ -1,0 +1,9 @@
+{
+	"name": "exp-dev-df",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f155963f-1823-4a0d-80e7-7aff11564c6d",
+		"tenantId": "b80375dd-ed12-42e3-8813-df864b20108a"
+	}
+}

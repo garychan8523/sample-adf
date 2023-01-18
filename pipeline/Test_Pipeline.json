@@ -1,0 +1,25 @@
+{
+	"name": "Test_Pipeline",
+	"properties": {
+		"activities": [
+			{
+				"name": "Set sample variable",
+				"type": "SetVariable",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "sample",
+					"value": true
+				}
+			}
+		],
+		"variables": {
+			"sample": {
+				"type": "Boolean"
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2023-01-18T13:55:52Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}
